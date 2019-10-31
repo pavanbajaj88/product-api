@@ -1,0 +1,18 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Ignore config because there might be private stuff in there
+*.json
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+debug
+
+*.out

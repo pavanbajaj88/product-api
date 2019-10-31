@@ -1,0 +1,10 @@
+{
+  "aws": {
+    "accessKeyId": "",
+    "secretAccessKeyId": "",
+    "region": "us-east-2"
+  },
+  "router": {
+    "port": ":8080"
+  }
+}
