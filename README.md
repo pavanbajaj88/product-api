@@ -1,6 +1,5 @@
  API communicate with an Amazon DynamoDB NoSQL database.
  
- ## Things I did
  AWS account with a DynamoDB.  
  API handles POST - For Posting product information and GET retrieving all items.  
  
